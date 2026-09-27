@@ -1,0 +1,10 @@
+{
+  "name": "TechHelp - فني هيلب",
+  "description": "منصة خدمات الصيانة الفنية والمنزلية TechHelp لربط العملاء بأمهر الفنيين والشركات المعتمدة",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
